@@ -18,5 +18,6 @@ Provide Video url in command line or *Just Copy* the url and run script.py
 
 1. In command line, enter python ```python script.py [YOUTUBE URL/ or just copy it!] ```
 2. Enter your gmail address and password in command line. 
+   
    P.S. : Dont forget to turnoff 2 step verification! :P
    
