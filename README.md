@@ -13,6 +13,7 @@ Provide Video url in command line or *Just Copy* the url and run script.py
 
 1. On Windows ```pip install selenium,pyperclip```
 2. On Linux ``` sudo -h apt-get install pip3```
+
             ``` pip3 install selenium,pyperclip```
 
 # Running Instructions
